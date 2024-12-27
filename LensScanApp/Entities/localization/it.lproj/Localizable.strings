@@ -1,0 +1,134 @@
+/* 
+  Localizable.strings
+  LensScanApp
+
+  Created by Vasiliy Vygnych on 26.11.2024.
+  
+*/
+
+//eng -> it
+
+//MARK: - Welcome Module
+
+"+1M items scanned" = "+1M articoli scannerizzati" ;
+"User choice worldwide" = "Scelta degli utenti in tutto il mondo" ;
+"Next" = "Avanti" ;
+"Scan and explore" = "Scannerizza ed esplora" ;
+"Identify plants instantly" = "Identifica le piante all'istante" ;
+"Find out more about your pet" = "Scopri di più sul tuo animale domestico" ;
+"All the answers are at your fingertips" = "Tutte le risposte sono a portata di mano" ;
+"Restore" = "Ripristina" ;
+"Terms" = "Termini" ;
+"Privacy" = "Privacy" ;
+"Get Full Access to Lens Photo" = "Ottieni accesso completo a Lens Photo" ;
+"Your personal expert" = "Il tuo esperto personale" ;
+"Discover the world with a new perspective" = "Scopri il mondo da una nuova prospettiva" ;
+"year" = "anno" ;
+"month" = "mese" ;
+
+//MARK: - PayWall
+
+"Try for free" = "Prova gratis" ;
+"Yearly access" = "Accesso annuale" ;
+"3 days free trial" = "Prova gratuita di 3 giorni" ;
+"Sale" = "Sconto" ;
+"Get Full Access to Lens Photo" = "Ottieni accesso completo a Lens Photo" ;
+"Identify any object in seconds" = "Identifica qualsiasi oggetto in pochi secondi" ;
+"Gain useful insights and tips" = "Ottieni informazioni utili e consigli" ;
+"Get personal AI Assistant" = "Ottieni assistente personale AI" ;
+"just" = "solo" ;
+"per year" = "all'anno" ;
+"then" = "poi" ;
+"per week" = "a settimana" ;
+
+//MARK: - TabBar
+
+"Home" = "Main" ;
+"Chat AI" = "Chat AI" ;
+
+//MARK: - Settings
+
+"Try for Free" = "Prova gratis" ;
+"Try Premium" = "Prova Premium" ;
+"Get unlimited access" = "Ottieni accesso illimitato" ;
+"Help" = "Aiuto" ;
+"Suggest Idea" = "Suggerisci un'idea" ;
+"Write something here.." = "Scrivi qualcosa qui..." ;
+"Restore Membership" = "Ripristina l'abbonamento" ;
+"Share" = "Condividi" ;
+"Rate Us" = "Valutaci" ;
+"Privacy Policy" = "Informativa sulla privacy" ;
+"Terms of Use" = "Termini di utilizzo" ;
+"GENERAL" = "GENERALE" ;
+"SOCIAL" = "SOCIALE" ;
+"LEGAL" = "LEGALE" ;
+
+//MARK: - History & Favorite
+
+"Favourites" = "Preferiti" ;
+"History" = "Storia" ;
+"It’s empty here" = "Qui è vuoto" ;
+"Feel this space with your scans!" = "Riempi questo spazio con i tuoi scan!" ;
+"Start Scan" = "Inizia scansione" ;
+
+//MARK: - HomeViewController
+
+"Write a request" = "Scrivi una richiesta" ;
+"Try Free" = "Prova gratis" ;
+"Get Full Access to Lens Photo" = "Ottieni accesso completo a Lens Photo" ;
+"Scan objects around" = "Scannerizza gli oggetti intorno" ;
+"Start Scan" = "Inizia scansione" ;
+"Popular" = "Popolare" ;
+"Good morning!" = "Buongiorno!" ;
+"Good afternoon!" = "Buon pomeriggio!" ;
+"Good evening!" = "Buona sera!" ;
+"Pets" = "Animali domestici" ;
+"Uncover unknown facts about your best friend" = "Scopri fatti sconosciuti sul tuo migliore amico" ;
+"Coin" = "Monete" ;
+"Find out who the coin belongs to and its value" = "Scopri a chi appartiene la moneta e il suo valore" ;
+"Plant" = "Piante" ;
+"Identify plants and learn how to care for them" = "Identifica le piante e impara a prendertene cura" ;
+"Food" = "Cibo" ;
+"Discover the secrets behind your favorite dishes" = "Scopri i segreti dei tuoi piatti preferiti" ;
+"Devices" = "Dispositivi" ;
+"Unravel the mysteries of your tech gadgets" = "Svela i misteri dei tuoi gadget tecnologici" ;
+"Interior" = "Interni" ;
+"Find inspiration for your dream home" = "Trova ispirazione per la tua casa dei sogni" ;
+"Architecture" = "Architettura" ;
+"Explore the world's most iconic buildings" = "Esplora gli edifici più iconici del mondo" ;
+"Cars" = "Auto" ;
+"Discover the history and specifications of your favorite cars" = "Scopri la storia e le specifiche delle tue auto preferite" ;
+"Seashells" = "Conchiglie" ;
+"Identify seashells and learn about marine life" = "Identifica le conchiglie e scopri la vita marina" ;
+"Paintings" = "Pitture" ;
+"Explore the masterpieces and their significance in the history of art" = "Esplora i capolavori e il loro significato nella storia dell'arte";
+
+//MARK: - EditModule
+
+"Attach" = "Allega" ;
+
+//MARK: - ScanViewController
+
+"Scan Results" = "Risultati della scansione" ;
+"Scanning" = "Scanning" ;
+"Something went wrong" = "Qualcosa è andato storto" ;
+"Please try again later" = "Riprova più tardi" ;
+"Adjust the area to fit the item you want to analyze" = "Regola l'area per adattarla all'elemento che desideri analizzare" ;
+"Add an image to the request" = "Aggiungere un'immagine alla richiesta" ;
+"Open Settings" = "Apri Impostazioni" ;
+"Cancel" = "Annullare" ;
+"Access to the camera is closed" = "L'accesso alla telecamera è chiuso" ;
+"to open access, go to settings" = "per aprire l'accesso, vai su Impostazioni" ;
+"Origin" = "Origine" ;
+"Weight" = "Peso" ;
+"Model" = "Modello" ;
+"Did you know?" = "Lo sapevi?" ;
+"Avg. Price" = "Prezzo medio" ;
+"Rating" = "Valutazione" ;
+"Interesting Facts" = "Fatti interessanti" ;
+
+//MARK: - ChatViewController
+
+"Chat AI" = "Chat AI" ;
+"Talk with chat AI" = "Parla con Chat AI" ;
+"Copied" = "Copiato" ;

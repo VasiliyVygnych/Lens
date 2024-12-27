@@ -1,0 +1,134 @@
+/* 
+  Localizable.strings
+  LensScanApp
+
+  Created by Vasiliy Vygnych on 26.11.2024.
+  
+*/
+
+//eng -> sp
+
+//MARK: - Welcome Module
+
+"+1M items scanned" = "+1M artículos escaneados" ;
+"User choice worldwide" = "Elección del usuario en todo el mundo" ;
+"Next" = "Siguiente" ;
+"Scan and explore" = "Escanea y explora" ;
+"Identify plants instantly" = "Identifica plantas al instante" ;
+"Find out more about your pet" = "Descubre más sobre tu mascota" ;
+"All the answers are at your fingertips" = "Todas las respuestas están al alcance de tu mano" ;
+"Restore" = "Restaurar" ;
+"Terms" = "Términos" ;
+"Privacy" = "Privacidad" ;
+"Get Full Access to Lens Photo" = "Obtén acceso completo a Lens Photo" ;
+"Your personal expert" = "Tu experto personal" ;
+"Discover the world with a new perspective" = "Descubre el mundo con una nueva perspectiva" ;
+"year" = "año" ;
+"month" = "mes" ;
+
+//MARK: - PayWall
+
+"Try for free" = "Prueba gratis" ;
+"Yearly access" = "Acceso anual" ;
+"3 days free trial" = "Prueba gratuita de 3 días" ;
+"Sale" = "Descuento" ;
+"Get Full Access to Lens Photo" = "Obtén acceso completo a Lens Photo" ;
+"Identify any object in seconds" = "Identifica cualquier objeto en segundos" ;
+"Gain useful insights and tips" = "Obtén información útil y consejos" ;
+"Get personal AI Assistant" = "Obtén asistente personal de IA" ;
+"just" = "solo" ;
+"per year" = "por año" ;
+"then" = "entonces" ;
+"per week" = "por semana" ;
+
+//MARK: - TabBar
+
+"Home" = "Inicio" ;
+"Chat AI" = "Chat IA" ;
+
+//MARK: - Settings
+
+"Try for Free" = "Prueba gratis" ;
+"Try Premium" = "Prueba Premium" ;
+"Get unlimited access" = "Obtén acceso ilimitado" ;
+"Help" = "Ayuda" ;
+"Suggest Idea" = "Sugerir idea" ;
+"Write something here.." = "Escribe algo aquí..." ;
+"Restore Membership" = "Restaurar membresía" ;
+"Share" = "Compartir" ;
+"Rate Us" = "Valóranos" ;
+"Privacy Policy" = "Política de privacidad" ;
+"Terms of Use" = "Términos de uso" ;
+"GENERAL" = "GENERAL" ;
+"SOCIAL" = "SOCIAL" ;
+"LEGAL" = "LEGAL" ;
+
+//MARK: - History & Favorite
+
+"Favourites" = "Favoritos" ;
+"History" = "Historial" ;
+"It’s empty here" = "Aquí está vacío" ;
+"Feel this space with your scans!" = "¡Llena este espacio con tus escaneos!" ;
+"Start Scan" = "Iniciar escaneo" ;
+
+//MARK: - HomeViewController
+
+"Write a request" = "Escribe una solicitud" ;
+"Try Free" = "Prueba gratis" ;
+"Get Full Access to Lens Photo" = "Obtén acceso completo a Lens Photo" ;
+"Scan objects around" = "Escanea los objetos alrededor" ;
+"Start Scan" = "Iniciar escaneo" ;
+"Popular" = "Popular" ;
+"Good morning!" = "¡Buen día!" ;
+"Good afternoon!" = "¡Buenas tardes!" ;
+"Good evening!" = "¡Buenas noches!" ;
+"Pets" = "Mascotas" ;
+"Uncover unknown facts about your best friend" = "Descubre hechos desconocidos sobre tu mejor amigo" ;
+"Coin" = "Monedas" ;
+"Find out who the coin belongs to and its value" = "Descubre a quién pertenece la moneda y su valor" ;
+"Plant" = "Plantas" ;
+"Identify plants and learn how to care for them" = "Identifica plantas y aprende a cuidarlas" ;
+"Food" = "Comida" ;
+"Discover the secrets behind your favorite dishes" = "Descubre los secretos de tus platos favoritos" ;
+"Devices" = "Dispositivos" ;
+"Unravel the mysteries of your tech gadgets" = "Descifra los misterios de tus dispositivos tecnológicos" ;
+"Interior" = "Interior" ;
+"Find inspiration for your dream home" = "Encuentra inspiración para la casa de tus sueños" ;
+"Architecture" = "Arquitectura" ;
+"Explore the world's most iconic buildings" = "Explora los edificios más icónicos del mundo" ;
+"Cars" = "Coches" ;
+"Discover the history and specifications of your favorite cars" = "Descubre la historia y las especificaciones de tus coches favoritos" ;
+"Seashells" = "Conchas" ;
+"Identify seashells and learn about marine life" = "Identifica conchas y aprende sobre la vida marina" ;
+"Paintings" = "Pinturas" ;
+"Explore the masterpieces and their significance in the history of art" = "Explore las obras maestras y su importancia en la historia del arte";
+
+//MARK: - EditModule
+
+"Attach" = "Adjuntar" ;
+
+//MARK: - ScanViewController
+
+"Scan Results" = "Resultados del escaneo" ;
+"Scanning" = "Escaneo" ;
+"Something went wrong" = "Algo salió mal" ;
+"Please try again later" = "Por favor, inténtelo de nuevo más tarde" ;
+"Adjust the area to fit the item you want to analyze" = "Ajuste el área para que se ajuste al elemento que desea analizar" ;
+"Add an image to the request" = "Agregar una imagen a la solicitud" ;
+"Open Settings" = "Configuración abierta" ;
+"Cancel" = "Cancelar" ;
+"Access to the camera is closed" = "El acceso a la cámara está cerrado" ;
+"to open access, go to settings" = "para abrir el acceso, vaya a configuración" ;
+"Origin" = "Origen" ;
+"Weight" = "Peso" ;
+"Model" = "Modelo" ;
+"Did you know?" = "Sabías que?" ;
+"Avg. Price" = "Precio promedio" ;
+"Rating" = "Calificación" ;
+"Interesting Facts" = "Datos interesantes" ;
+
+//MARK: - ChatViewController
+
+"Chat AI" = "Chat IA" ;
+"Talk with chat AI" = "Habla con Chat IA" ;
+"Copied" = "Copiado" ;

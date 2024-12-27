@@ -1,0 +1,175 @@
+/* 
+  Localizable.strings
+  LensScanApp
+
+  Created by Vasiliy Vygnych on 26.11.2024.
+  
+*/
+
+//rus -> eng
+
+//MARK: - Welcome Module
+
+"+1M предметов отсканировано" = "+1M items scanned" ;
+"Выбор пользователей по всему миру" = "User choice worldwide" ;
+"Далее" = "Next" ;
+"Сканируйте и исследуйте" = "Scan and explore" ;
+"Мгновенно определяйте растения" = "Identify plants instantly" ;
+"Узнайте больше о вашем питомце" = "Find out more about your pet" ;
+"Все ответы у вас под рукой" = "All the answers are at your fingertips" ;
+"Восстановить" = "Restore" ;
+"Условия" = "Terms" ;
+"Конфиденциальность" = "Privacy" ;
+"Получите полный доступ к Lens Photo" = "Get Full Access to Lens Photo" ;
+"Ваш личный эксперт" = "Your personal expert" ;
+"Все ответы у вас под рукой" = "All the answers are at your fingertips" ;
+"Откройте мир с новой точки зрения" = "Discover the world with a new perspective" ;
+"год" = "year" ;
+"месяц" = "month" ;
+
+//MARK: - PayWall
+
+"Попробуйте бесплатно" = "Try for free" ;
+"Годовой доступ" = "Yearly access" ;
+"Бесплатная пробная версия на 3 дня" = "3 days free trial" ;
+"Скидка" = "Sale" ;
+"Получите полный доступ к Lens Photo" = "Get Full Access to Lens Photo" ;
+"Идентифицируйте любой объект за считанные секунды" = "Identify any object in seconds" ;
+"Получайте полезную информацию и советы" = "Gain useful insights and tips" ;
+"Получите персонального ИИ помощника" = "Get personal AI Assistant" ;
+"всего лишь" = "just" ;
+"в год" = "per year" ;
+"затем" = "then" ;
+"в неделю" = "per week" ;
+
+//MARK: - TabBar
+
+"Главная" = "Home" ;
+"Чат ИИ" = "Chat AI" ;
+
+//MARK: - Settings
+
+"Попробуйте бесплатно" = "Try for Free";
+"Попробуйте премиум" = "Try Premium";
+"Получите неограниченный доступ" = "Get unlimited access";
+"Помощь" = "Help";
+"Предложить идею" = "Suggest Idea";
+"Напишите здесь что-нибудь..." = "Write something here..";
+"Восстановить членство" = "Restore Membership";
+"Поделиться" = "Share";
+"Оцените нас" = "Rate Us";
+"Политика конфиденциальности" = "Privacy Policy";
+"Условия использования" = "Terms of Use";
+"Общее" = "GENERAL";
+"Социальное" = "SOCIAL";
+"Юридическое" = "LEGAL";
+
+//MARK: - History & Favorite
+
+"Избранное" = "Favourites";
+"История" = "History";
+"Здесь пусто" = "It’s empty here";
+"Почувствуйте это пространство с помощью своих сканов!" = "Feel this space with your scans!";
+"Начать сканирование" = "Start Scan";
+
+
+//MARK: - HomeViewController
+
+"Написать запрос" = "Write a request";
+"Попробуйте бесплатно" = "Try Free";
+"Получите полный доступ к фотографиям в объективе" = "Get Full Access to Lens Photo";
+"Сканируйте окружающие объекты" = "Scan objects around";
+"Начать сканирование" = "Start Scan";
+"Популярное" = "Popular";
+"Доброе утро!" = "Good morning!";
+"Добрый день!" = "Good afternoon!";
+"Добрый вечер!" = "Good evening!";
+"Домашние животные" = "Pets";
+"Раскройте неизвестные факты о вашем лучшем друге" = "Uncover unknown facts about your best friend";
+"Монеты" = "Coin";
+"Узнайте, кому принадлежит монета и её стоимость" = "Find out who the coin belongs to and its value";
+"Растения" = "Plant";
+"Определите растения и узнайте, как за ними ухаживать" = "Identify plants and learn how to care for them";
+"Еда" = "Food";
+"Откройте секреты ваших любимых блюд" = "Discover the secrets behind your favorite dishes";
+"Устройства" = "Devices";
+"Разгадайте тайны ваших технических гаджетов" = "Unravel the mysteries of your tech gadgets";
+"Интерьер" = "Interior";
+"Найдите вдохновение для дома вашей мечты" = "Find inspiration for your dream home";
+"Архитектура" = "Architecture";
+"Исследуйте самые знаковые здания мира" = "Explore the world's most iconic buildings";
+"Автомобили" = "Cars";
+"Узнайте историю и характеристики ваших любимых автомобилей" = "Discover the history and specifications of your favorite cars";
+"Морские ракушки" = "Seashells";
+"Определите морские ракушки и узнайте о морской жизни" = "Identify seashells and learn about marine life";
+"Картины" = "Paintings";
+"Познакомьтесь с шедеврами и их значением в истории искусства." = "Explore the masterpieces and their significance in the history of art" ;
+
+
+//MARK: - EditModule
+
+"Прикрепить" = "Attach" ;
+
+
+//MARK: - ScanViewController
+
+"Результат сканирования" = "Scan Results" ;
+"Сканирование" = "Scanning" ;
+"Что-то пошло не так" = "Something went wrong" ;
+"Пожалуйста, повторите попытку позже" = "Please try again later" ;
+"Отрегулируйте область так, чтобы она соответствовала объекту, который вы хотите проанализировать" = "Adjust the area to fit the item you want to analyze" ;
+"Добавьте изображение к запросу" = "Add an image to the request" ;
+"Открыть настройки" = "Open Settings" ;
+"Отмена" = "Cancel" ;
+"Доступ к камере закрыт" = "Access to the camera is closed" ;
+"чтобы открыть доступ, перейдите в настройки" = "to open access, go to settings" ;
+"Происхождение" = "Origin" ;
+"Вес" = "Weight" ;
+"Модель" = "Model" ;
+"Знаете ли вы?" = "Did you know?" ;
+"Средняя цена" = "Avg. Price" ;
+"Рейтинг" = "Rating" ;
+"Интересные факты" = "Interesting Facts" ;
+
+
+//MARK: - ChatViewController
+
+"Чат ИИ" = "Chat AI" ;
+"Общайтесь с помощью ИИ" = "Talk with chat AI" ;
+"Скопировано" = "Copied" ;
+
+
+
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
+"" = "" ;
